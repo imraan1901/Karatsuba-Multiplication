@@ -11,4 +11,4 @@ O(n<sup>1.585</sup>)
 
 ## Reference
 Algorithm Design
-Jon Kleinberg, Éva Tardos
+by Jon Kleinberg and Éva Tardos
