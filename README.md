@@ -4,7 +4,7 @@
 This program multipilies two number faster than naive multipication which takes O(n<sup>2</sup>).
  
 ## Use
-Multipication of two numbers. 
+Multiplication of two numbers. 
 
 ## Run Time Complexity
 O(n<sup>1.585</sup>)
