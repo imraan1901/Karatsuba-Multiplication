@@ -1,7 +1,7 @@
 # Karatsuba Multiplication
 
 ## Description
-This program multipilies two number faster than naive multipication which takes O(n<sup>2</sup>).
+This program multiplies two number faster than naive multipication which takes O(n<sup>2</sup>).
  
 ## Use
 Multiplication of two numbers. 
